@@ -3,46 +3,40 @@ var card = $("#quiz-area");
 
 var questions = [
   {
-    question: "What was the first full length CGI movie?",
-    answers: ["A Bug's Life", "Monsters Inc.", "Toy Story", "The Lion King"],
-    correctAnswer: "Toy Story"
+    question: "Who is considered one of the best bikers of all time?",
+    answers: ["Lance Armstrong", "Adelle", "Blair Perkes", "Chris Stead"],
+    correctAnswer: "Blair Perkes"
   },
   {
-    question: "Which of these is NOT a name of one of the Spice Girls?",
-    answers: ["Sporty Spice", "Fred Spice", "Scary Spice", "Posh Spice"],
-    correctAnswer: "Fred Spice"
+    question: "Who is the strongest man out of these options?",
+    answers: ["Blair Perkes", "Aneta Florczyk", "Jill Mills", "Donna Moore"],
+    correctAnswer: "Blair Perkes"
   },
   {
-    question: "Which NBA team won the most titles in the 90s?",
-    answers: ["New York Knicks", "Portland Trailblazers", "Los Angeles Lakers", "Chicago Bulls"],
-    correctAnswer: "Chicago Bulls"
+    question: "Which university won the NCAA championship in 1966?",
+    answers: ["Texas Western", "Kentucky", "Duke", "Utah State"],
+    correctAnswer: "Texas Western"
   },
   {
-    question: "Which group released the hit song, 'Smells Like Teen Spirit'?",
-    answers: ["Nirvana", "Backstreet Boys", "The Offspring", "No Doubt"],
-    correctAnswer: "Nirvana"
+    question: "Who is the fastest cross country mountain biker in the world?",
+    answers: ["Anton Cooper", "Maxime Marotte", "Lars Forster", "Nino Schurter"],
+    correctAnswer: "Nino Schurter"
   },
   {
-    question: "Which popular Disney movie featured the song, 'Circle of Life'?",
-    answers: ["Aladdin", "Hercules", "Mulan", "The Lion King"],
-    correctAnswer: "The Lion King"
+    question: "What is Blair's favorite thing to do?",
+    answers: ["ski", "bike", "boat", "hunt"],
+    correctAnswer: "bike"
   },
   {
-    question:
-      "Finish this line from the Fresh Prince of Bel-Air theme song: 'I whistled for a cab and when it came near, the license plate said...'",
-    answers: ["Dice", "Mirror", "Fresh", "Cab"],
-    correctAnswer: "Fresh"
+    question:"Who is the world's greatest dad?",
+    answers: ["Shane", "Doral", "Brett", "Chuck"],
+    correctAnswer: "Brett"
   },
   {
     question: "What was Doug's best friend's name?",
     answers: ["Skeeter", "Mark", "Zach", "Cody"],
     correctAnswer: "Skeeter"
   },
-  {
-    question: "What was the name of the principal at Bayside High in Saved By The Bell?",
-    answers: ["Mr.Zhou", "Mr.Driggers", "Mr.Belding", "Mr.Page"],
-    correctAnswer: "Mr.Belding"
-  }
 ];
 
 // Variable setInterval stuff
